@@ -10,7 +10,7 @@ order: 6
 
 <p>É interessante também dar uma passada pelo pequeno bosque que se encontra antes do bloco F e em frente do corredor que leva à churrasqueira. Momento certo para relaxar e entrar em contato com a natureza em um dos 6 bancos disponíveis.</p> 
 
-<p>Por último, não podemos esquecer dos quiosques presentes na entrada do CCMN. São 4 lanchonetes que vão te ajudar a matar seu tempo <i>e a sua fome!</i>
+<p>Por último, não podemos esquecer dos quiosques presentes na entrada do CCMN. São 4 lanchonetes que vão te ajudar a matar seu tempo <i>e a sua fome!</i></p>
 
 ---
 
