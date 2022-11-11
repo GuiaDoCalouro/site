@@ -179,7 +179,7 @@ order: 2
  <p>
  <br><b>Linha 5 - BRT x CT/CCMN</b>
 
-<br><h5- Das 07h às 09h:  Partida da Estação UFRJ, seguindo diretamente até o CCMN, CT e Letras.</h5>
+<br><h5>- Das 07h às 09h:  Partida da Estação UFRJ, seguindo diretamente até o CCMN, CT e Letras.</h5>
 
 <h5>- Das 11h às 13h:  Saída da Letras, CT e CCMN, seguindo diretamente Restaurante Universitário/ Estação.</h5>
 
