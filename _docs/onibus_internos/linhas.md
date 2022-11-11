@@ -7,9 +7,9 @@ order: 2
 <body>
  <p>
  Linha 1 - BRT/Estação x Gráfica
-<h1>IDA</h1>
+<h4>IDA</h4>
 
-<h2>Estação Integração UFRJ<h2>
+<h5>Estação Integração UFRJ</h5>
 
 <h2>Hospital Universitário / CCS bloco A</h2>
 
