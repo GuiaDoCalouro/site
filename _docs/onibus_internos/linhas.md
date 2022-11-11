@@ -8,7 +8,7 @@ order: 2
  <p>
   <b>Linha 1 - BRT/Estação x Gráfica</b>
   
-<h3>IDA</h3>
+<br><h3>IDA</h3>
 
  
 <br><h5>Estação Integração UFRJ</h5>
@@ -36,7 +36,7 @@ order: 2
 <h5>Gráfica</h5>
 
  
- <h3>VOLTA</h3>
+ <br><h3>VOLTA</h3>
 
  
 <br><h5>Gráfica</h5>
@@ -69,13 +69,13 @@ order: 2
  </p>
 <img src="https://appassets.mvtdev.com/map/131/l/322/67224889/5969918.webp">
   
-
+<p>==================================================================================================</p>
 
 
  <p>
- <b>Linha 3 - Estação Ufrj x Residência Estudantil</b>
+ <br><b>Linha 3 - Estação Ufrj x Residência Estudantil</b>
  
- <h3>IDA</h3>
+ <br><h3>IDA</h3>
 
 <br><h5>Estação Integração UFRJ</h5>
 
@@ -90,7 +90,7 @@ order: 2
 <h5>Residência Estudantil 1</h5>
 
 
-<h3>VOLTA</h3>
+<br><h3>VOLTA</h3>
 
 
 <br><h5>Residência Estudantil 1</h5>
@@ -108,14 +108,14 @@ order: 2
 
 <img src= "https://appassets.mvtdev.com/map/131/l/322/67224890/5969923.webp">
   
-
+<p>==================================================================================================</p>
 
 
  <p>
- <b>Linha 4 - BRT x Parque Tecnológico</b>
+ <br><b>Linha 4 - BRT x Parque Tecnológico</b>
  
  
-<h3>IDA</h3>
+<br><h3>IDA</h3>
 
 
 <br><h5>Estação Integração UFRJ</h5>
@@ -141,7 +141,7 @@ order: 2
 <h5>Parque Tecnológico <i>(paradas: 1ª Pró-reitorias  - 2ª AmBev - 3ª IBM (Reitoria) - 4ª Senai - 5ª Atrás da Schlumberger - 6ª Lateral da Schlumberger - 7ª Saída do Parque, próximo às cancelas)</i></h5>
 
  
-<h3>VOLTA</h3>
+<br><h3>VOLTA</h3>
 
 
 <br><h5>Parque Tecnológico <i>(paradas: 1ª Pró-reitorias  - 2ª AmBev - 3ª IBM (Reitoria) - 4ª Senai - 5ª Atrás da Schlumberger - 6ª Lateral da Schlumberger - 7ª Saída do Parque, próximo às cancelas)</i></h5>
@@ -172,10 +172,12 @@ order: 2
 </p>
 
 <img src= "https://appassets.mvtdev.com/map/131/l/322/67224891/5969926.webp">
+
+<p>==================================================================================================</p>
   
 
  <p>
- <b>Linha 5 - BRT x CT/CCMN</b>
+ <br><b>Linha 5 - BRT x CT/CCMN</b>
 
 <br><h5- Das 07h às 09h:  Partida da Estação UFRJ, seguindo diretamente até o CCMN, CT e Letras.</h5>
 
