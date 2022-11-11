@@ -186,10 +186,7 @@ order: 2
 <h5>- Das 17h às 19h30  : Partida da Estação UFRJ, seguindo diretamente até o CCMN, CT e Letras. O mesmo ônibus retorna diretamente para Estação UFRJ.</h5>
 
 
-</p>
-
-<img src= "https://appassets.mvtdev.com/map/131/l/322/95550830/6449514.webp">
-  
+</p>  
 
 </body>
 
