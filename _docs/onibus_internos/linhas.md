@@ -8,7 +8,7 @@ order: 2
  <p>
   <b>Linha 1 - BRT/Estação x Gráfica</b>
   
-<br><h3>IDA</h3>
+<h3>IDA</h3>
 
  
 <br><h5>Estação Integração UFRJ</h5>
@@ -75,7 +75,7 @@ order: 2
  <p>
  <br><b>Linha 3 - Estação Ufrj x Residência Estudantil</b>
  
- <br><h3>IDA</h3>
+ <h3>IDA</h3>
 
 <br><h5>Estação Integração UFRJ</h5>
 
@@ -115,7 +115,7 @@ order: 2
  <br><b>Linha 4 - BRT x Parque Tecnológico</b>
  
  
-<br><h3>IDA</h3>
+<h3>IDA</h3>
 
 
 <br><h5>Estação Integração UFRJ</h5>
