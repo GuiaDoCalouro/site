@@ -13,4 +13,4 @@ Se estiver procurando por um arroz com feijão mais barato, o corredor aberto do
 
 ---
 
-*Editado em: <dia> de <mês> de 2022*
+*Editado em: 15 de novembro de 2022*
