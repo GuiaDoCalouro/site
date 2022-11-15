@@ -4,7 +4,6 @@ category: Hora do Almoço
 order: 1
 ---
 
-<TEXTO>
 Temos uma boa variedade de lugares e preços. Desde os 2 reais do bandejão até restaurantes à cerca de 50/60 reais o quilo. Na entrada do CCMN há uma região com algumas opções: salgados, yakisoba, comida à quilo...
   
 
