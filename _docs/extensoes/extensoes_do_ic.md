@@ -4,8 +4,8 @@ category: Extensão
 order: 3
 ---
 
-<TEXTO>
+No site da Pró-reitoria de extensão, siga os passos recomendados na aba <b>Procurando por extensões no SIGA</b> e digite <b>Instituto de Computação</b> na caixa <b>Unidade</b>.
 
 ---
 
-*Editado em: <dia> de <mês> de 2022*
+*Editado em: 15 de novembro de 2022*
