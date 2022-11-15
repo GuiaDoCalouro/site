@@ -12,4 +12,4 @@ Além disso, existem dois principais pontos com microondas: CAInfo e Churrasquei
 
 ---
 
-*Editado em: <dia> de <mês> de 2022*
+*Editado em: 15 de novembro de 2022*
