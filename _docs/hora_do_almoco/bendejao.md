@@ -4,7 +4,6 @@ category: Hora do Almoço
 order: 2
 ---
 
-<TEXTO>
 Se tem uma coisa que toma tempo na faculdade é almoçar no bandejão. Porém, pelo baixo preço de dois reais, muita gente prefere enfrentar as filas. Nesse caso, a melhor estratégia é sair antes da aula sempre que possível, especialmente em início de período.
   
 \
@@ -51,4 +50,4 @@ Jantar > 17:30-20h
   
 ---
 
-*Editado em: <dia> de <mês> de 2022*
+*Editado em: 15 de Novembro de 2022*
