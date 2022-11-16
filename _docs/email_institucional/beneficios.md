@@ -24,7 +24,7 @@ Entre eles, podemos destacar:
 
 + [Spotify](https://www.spotify.com/br/student/): um mês de Premium grátis, depois R$ 9,90/mês.
 
-+ [EduRoam](https://eduroam.org/): rede mundial de wifi livre e seguro para estudantes. Baixar o aplicativo para auxiliar na conexão com o wifi `eduroam`, disponível por todo o globo (inclusive na UFRJ). Mais detalhes na [intranet](https://intranet.ufrj.br/portal/eduroam-2/).
++ [EduRoam](https://eduroam.org/): rede mundial de wifi livre e seguro para estudantes. Baixar o aplicativo para auxiliar na conexão com o wifi `eduroam`, disponível por todo o globo (especialmente na UFRJ). Mais detalhes na [intranet](https://intranet.ufrj.br/portal/eduroam-2/).
 
 + [CAFe (Comunidade Acadêmica Federada)](https://intranet.ufrj.br/portal/cafe-2/): acesso, pelo VPN da UFRJ, ao Portal Capes (livros e publicações) e muitos outros sistemas de publicações acadêmicas. Também dá acesso ao [FileSender@RNP](https://filesender.rnp.br/) (sistema seguro para troca de arquivos grandes)
 

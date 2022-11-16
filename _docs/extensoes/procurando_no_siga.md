@@ -1,9 +1,9 @@
 ---
-title: Procurando por extensões no SIGA
+title: Procurando por extensões
 category: Extensão
 order: 2
 ---
-<h3>NO SIGA</h3>
+<h3>No SIGA</h3>
 
 Uma vez logado no SIGA, selecione a aba <b>Requerimentos</b>.
 
@@ -14,7 +14,7 @@ Por último, escolha a <b>Área Temática Principal</b> e clique em <b>Consultar
 Você verá uma lista contendo dezenas de ações de extensão.
 
 
-<h3>NO SITE DA PRÓ-REITORIA DE EXTENSÃO</h3>
+<h3>No Site da Pró-Reitoria de Extensão</h3>
 
 Acesse o site da [Pró-reitoria de extensão](https://extensão.ufrj.br/)
 

@@ -8,7 +8,8 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+# logo: /images/Icone\ GDC\ azul.png
+logo: /images/menu.svg
 description: Projeto desenvolvido para a disciplina de Habilidades Sociais para o Trabalho.
 author:
   name: Grupo
@@ -17,7 +18,7 @@ author:
 social:
   name: Guia do Calouro
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    # - https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
 # Build

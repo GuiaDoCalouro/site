@@ -7,7 +7,6 @@ O CCMN conta com diversos bebedouros espalhados pelo prédio, o 2° e o 3° anda
 
 Dentre esses, os bebedouros da Praça da Terra e da Decania passaram recentemente por mudanças, foram cobertos por uma capa térmica e tiveram seus filtros trocados, logo são os mais recomendados.
 
-
 ---
 
 *Editado em: 15 de Novembro de 2022*
