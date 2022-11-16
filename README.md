@@ -1,68 +1,46 @@
-# Edition
+---
+title: Sobre o Projeto
+---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
+### O Projeto
 
-![Edition template screenshot](images/_screenshot.png)
+![Logo do Guia do Calouro](/images/Logo GDC azul.png "Guia do Calouro")
 
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+O **Guia do Calouro** se propõe a auxiliar os discentes recém ingressos no Bacharelado em Ciência da Computação (Universidade Federal do Rio de Janeiro) na transição da *vida escolar* para a *vida universitária*. 
+É uma plataforma criada por alunos e para alunos.
+Não se preocupe, esse momento pode ser confuso, mas todos nós já passamos por isso e somos a prova viva de que é possível sobreviver!
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Nosso objetivo aqui é te ajudar com dicas valiosas sobre como aproveitar a universidade da melhor forma possível, uma vez que são tantas novidades que, às vezes, coisas interessantes acabam se perdendo. 
+Não queremos isso.
 
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/edition-jekyll-template)
+Nosso foco não é a parte acadêmica: você vai se encontrar academicamente de forma natural com o passar do tempo. 
+Queremos simplesmente dar os *bizus* para que você não passe pelos perrengues que nós já passamos.
 
-## Features
 
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+### Como Podemos Ajudar?
 
-## Setup
+Aqui, você vai encontrar dicas e informações sobre a universidade e toda a cojuntura acadêmica, pessoal e social que a cerca.
+Esperamos contribuir com esses primeiros semestres da sua viagem pela UFRJ, que é justamente o período em que mais queremos saber e descobrir as coisas.
 
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+### Como Você Pode Ajudar?
 
-## Develop
+Se você acredita que alguma parte desse singelo compêndio está imprecisa ou deseja que algum tópico seja adicionado, pode _clonar_ nosso [repositório do github](https://github.com/GuiaDoCalouro/site), em que o presente site é mantido, e criar um _pull request_.
 
-Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+> Não sabe o que significa _clonar um repositório_ ou _realizar um pull request_? 
+Então confira os vídeos:
++ [Clonando um repositório - Git e Github para Iniciantes](https://www.youtube.com/watch?v=WEPB5pDSEIg)
++ [Como criar seu primeiro pull request no GitHub](https://www.youtube.com/watch?v=Du04jBWrv4A)
 
-Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
-$ bundle install
-~~~
+### Quem Somos?
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+Somos um grupo de alunos graduandos de Ciência da Computação: _Daniel Nocito, Fernando Giongo, Gabriel Duarte, Helena Marques, Ian Larrubia, Leonardo de Souza e Victor Pereira da Silva_. 
+Unidos pela vontade de acudir nossos colegas calouros -- e pela autoridade das Habilidades Sociais para o Trabalho --, criamos esse saite com todo o carinho e dedicação.
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+### Fale Conosco
 
-## Editing
+Para entrar em contato por dúvidas, críticas, reclamações ou questionamentos, escreva um e-mail para `guiadocalouro.cc.ufrj@gmail.com`.
 
-Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.
+---
 
-### Documentation pages
-
-* Add, update or remove a documentation page in the *Documentation* collection.
-* Change the category of a documentation page to move it to another section in the navigation.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-
-### Change log
-
-* Add, update or remove change log entries from your posts.
-* Tag entries as minor or major in the front matter.
-
-### Search
-
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Change `site.show_full_navigation` to control all or only the current navigation group being open.
+> O projeto Guia do Calouro foi criado como parte da avaliação da disciplina de Habilidades Sociais Para o Trabalho (ICP145) no período letivo de 2022.2.
