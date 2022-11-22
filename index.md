@@ -35,7 +35,7 @@ Então confira os vídeos:
 ### Quem Somos?
 
 Somos um grupo de alunos graduandos de Ciência da Computação: _Daniel Nocito, Fernando Giongo, Gabriel Duarte, Helena Marques, Ian Larrubia, Leonardo de Souza e Victor Pereira da Silva_. 
-Unidos pela vontade de acudir nossos colegas calouros -- e pela autoridade das Habilidades Sociais para o Trabalho --, criamos esse saite com todo o carinho e dedicação.
+Unidos pela vontade de acudir nossos colegas calouros -- e pela autoridade das Habilidades Sociais para o Trabalho --, criamos esse site com todo o carinho e dedicação.
 
 ### Fale Conosco
 
