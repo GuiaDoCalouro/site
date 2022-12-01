@@ -4,7 +4,7 @@ title: Sobre o Projeto
 
 ### O Projeto
 
-<img src="/images/Logo GDC azul.png" alt="Guia do Calouro" width="700" height="700">
+<img src="https://guiadocalouro.github.io/site/images/Logo GDC azul.png" alt="Guia do Calouro" width="700" height="700">
 
 O **Guia do Calouro** se propõe a auxiliar os discentes recém ingressos no Bacharelado em Ciência da Computação (Universidade Federal do Rio de Janeiro) na transição da *vida escolar* para a *vida universitária*. 
 É uma plataforma criada por alunos e para alunos.

@@ -4,7 +4,7 @@ title: Sobre o Projeto
 
 ### O Projeto
 
-![Logo do Guia do Calouro](/images/Logo GDC azul.png "Guia do Calouro")
+<img src="https://guiadocalouro.github.io/site/images/Logo GDC azul.png" alt="Guia do Calouro" width="700" height="700">
 
 O **Guia do Calouro** se propõe a auxiliar os discentes recém ingressos no Bacharelado em Ciência da Computação (Universidade Federal do Rio de Janeiro) na transição da *vida escolar* para a *vida universitária*. 
 É uma plataforma criada por alunos e para alunos.
@@ -35,7 +35,7 @@ Então confira os vídeos:
 ### Quem Somos?
 
 Somos um grupo de alunos graduandos de Ciência da Computação: _Daniel Nocito, Fernando Giongo, Gabriel Duarte, Helena Marques, Ian Larrubia, Leonardo de Souza e Victor Pereira da Silva dos Santos_. 
-Unidos pela vontade de acudir nossos colegas calouros -- e pela autoridade das Habilidades Sociais para o Trabalho --, criamos esse saite com todo o carinho e dedicação.
+Unidos pela vontade de acudir nossos colegas calouros -- e pela autoridade das Habilidades Sociais para o Trabalho --, criamos esse site com todo o carinho e dedicação.
 
 ### Fale Conosco
 
